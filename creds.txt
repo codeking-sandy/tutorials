@@ -1,2 +1,0 @@
-username=sand204
-password=2004
